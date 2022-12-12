@@ -8,3 +8,7 @@
 | 2022/11/14  | hiraoka  | p.1-p.7(1.2.1.5 Uncertaintyの前まで) |
 | 2022/11/21 | m s | p.7-p.12(1.2.3 Overfitting and generalizationの前まで) |
 | 2022/11/28 | 潮 | ------------- |
+| 2022/12/5 | Matsumura | ------------- |
+| 2022/12/12 | Sakamoto | pp.33-35(before 2.2 Random variables) |
+| 2022/12/19 | hiraoka | pp.35-41(before 2.2.5.3 Mode of a distribution) |
+| 2022/12/26 | Sakamoto | ------------- |
