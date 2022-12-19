@@ -10,5 +10,6 @@
 | 2022/11/28 | 潮 | ------------- |
 | 2022/12/5 | Matsumura | ------------- |
 | 2022/12/12 | Sakamoto | pp.33-35(before 2.2 Random variables) |
-| 2022/12/19 | hiraoka | pp.35-41(before 2.2.5.3 Mode of a distribution) |
+| 2022/12/19 | hiraoka | pp.35-39(before 2.2.4 Independence and conditional independence) |
 | 2022/12/26 | Sakamoto | ------------- |
+| 2023/1/9 | itch | ------------- |
